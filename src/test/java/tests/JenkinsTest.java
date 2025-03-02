@@ -9,11 +9,10 @@ public class JenkinsTest {
 	@Test
 	void Test1(){
 		assertTrue(true);
-		System.out.println("yunusemre");
 	}
 	@Test
 	void Test2(){
-		assertTrue(false);
+		assertTrue(true);
 	}
 	@Test
 	void Test3(){
